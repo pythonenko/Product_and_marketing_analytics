@@ -19,18 +19,18 @@
 | Проект по сервису для чтения книг по подписке | *Исследование направлено* на разработку предложения нового продукта в сервисе для чтения книг по подписке | Python, Pandas, PostgreSQL, SQLAlchemy | [books_sql][14] |
 | E-commerce. Выявление профилей потребителей | *Целью исследования* является анализ пользовательского опыта в интернет-магазине товаров для дома и быта «Пока все ещё тут» для увеличения продаж и создания индивидуального подхода к потребителю | Python, Pandas, Numpy, PyMystem3, Matplotlib, Seaborn, Scipy, Tableau, предобработка данных, лемматизация, классификация, проверка статистических гипотез, продуктовые метрики, визуализация данных, построение дашбордов | [customers_profiles][15]
 
-[1]:https://github.com/tsladkova/Projects_YandexPracticum/tree/music_project
-[2]:https://github.com/tsladkova/Projects_YandexPracticum/tree/bank_clients
-[3]:https://github.com/tsladkova/Projects_YandexPracticum/tree/apartments_project
-[4]:https://github.com/tsladkova/Projects_YandexPracticum/tree/telekom_project
-[5]:https://github.com/tsladkova/Projects_YandexPracticum/tree/games_project
-[6]:https://github.com/tsladkova/Projects_YandexPracticum/tree/avia_project
-[7]:https://github.com/tsladkova/Projects_YandexPracticum/tree/marketing_project
-[8]:https://github.com/tsladkova/Projects_YandexPracticum/tree/ecommerce_project
-[9]:https://github.com/tsladkova/Projects_YandexPracticum/tree/open_restaurant
-[10]:https://github.com/tsladkova/Projects_YandexPracticum/tree/mobile_app
-[11]:https://github.com/tsladkova/Projects_YandexPracticum/tree/automatization_dash
-[12]:https://github.com/tsladkova/Projects_YandexPracticum/tree/gym_clients
-[13]:https://github.com/tsladkova/Projects_YandexPracticum/tree/ab_project
-[14]:https://github.com/tsladkova/Projects_YandexPracticum/tree/books_sql
-[15]:https://github.com/tsladkova/Projects_YandexPracticum/tree/customers_profiles
+[1]:https://github.com/
+[2]:https://github.com/
+[3]:https://github.com/
+[4]:https://github.com/
+[5]:https://github.com/
+[6]:https://github.com/
+[7]:https://github.com/
+[8]:https://github.com/
+[9]:https://github.com/
+[10]:https://github.com/
+[11]:https://github.com/
+[12]:https://github.com/
+[13]:https://github.com/
+[14]:https://github.com/
+[15]:https://github.com/
