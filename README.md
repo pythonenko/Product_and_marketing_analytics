@@ -13,6 +13,8 @@
 | Анализ рынка заведений общественного питания Москвы | выбор района для открытия кафе в Москве	| Pandas, Numpy, Requests, Plotly, визуализация данных	| [Visualization_catering_market_Moscow][8] | 
 | Анализ пользователей мобильного приложения | анализ поведения пользователей мобильного приложения и результатов A/A/B-эксперимента	| Pandas, Numpy, Matplotlib, Plotly, Math, Scipy, A/B-тестирование, визуализация данных, проверка статистических гипотез, продуктовые метрики, событийная аналитика	| [AAB_user_Analysis_Mobile_App][9] | 
 | Прогнозирование оттока и кластеризация клиентов фитнес-клубов | разработка стратегии удержания клиентов сети фитнес-центров	| Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Scipy, классификация, кластеризация, машинное обучение	| [Classification_and_Cluster_analysis_gym][10] | 
+| Выявление профилей потребления интернет-магазина | группировка товаров и сегментация покупателей	| Pandas, Numpy, Matplotlib, Requests, Plotly, Sklearn, Scipy, pymystem3, лемматизация, кластеризация	| [Ecommerce_clustering_and_product_categorizing][11] | 
+| Анализ результатов A/B-теста рекомендательной системы | оценка влияния новой рекомендательной системы на поведение пользователей	| Pandas, Numpy, Matplotlib, Seaborn, Scipy, A/B-тестирование, проверка статистических гипотез	| [AB__recommender_system][12] | 
 
 
 [1]: https://github.com/pythonenko/Product_and_marketing_analytics/tree/main/Data_processing_borrowers_reliability
@@ -25,3 +27,5 @@
 [8]: https://github.com/pythonenko/Product_and_marketing_analytics/tree/main/Visualization_catering_market_Moscow
 [9]: https://github.com/pythonenko/Product_and_marketing_analytics/tree/main/AAB_user_Analysis_Mobile_App
 [10]: https://github.com/pythonenko/Product_and_marketing_analytics/tree/main/Classification_and_Cluster_analysis_gym
+[11]: https://github.com/pythonenko/Product_and_marketing_analytics/tree/main/Ecommerce_clustering_and_product_categorizing
+[12]: https://github.com/pythonenko/Product_and_marketing_analytics/tree/main/AB__recommender_system
